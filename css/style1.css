@@ -1,0 +1,98 @@
+body{
+  background-color: #F1EEE9;
+}
+h1{
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 3px;
+  font-size: 50px;
+  font-style: normal;
+  color: #15133C;
+  font-family: sans-serif;
+}
+h2{
+  text-align: center;
+  margin-top: 3px;
+  margin-bottom: 10px;
+  font-style: normal;
+  font-family: serif;
+  color: #EC994B;
+  text-decoration: underline;
+}
+h3{
+  color: #15133C;
+  margin-bottom: 1px;
+  margin-left: 10px;
+}
+h4{
+  text-align: center;
+}
+hr{
+  border-right-width: 2px;
+border-left-width: 2px;
+border-top-width: 2px;
+border-bottom-width: 2px;
+margin-right: 20px;
+margin-left: 10px;
+}
+
+.Contact{
+  margin-bottom: 10px;
+  text-align: center;
+}
+p{
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-right: 20px;
+  text-align: justify;
+}
+.branch{
+  color: #4B5D67;
+  margin-bottom: 5px;
+}
+.Skills{
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-right: 20px;
+  text-align: justify;
+  color: #EC994B;
+}
+.Client{
+  display: inline;
+  text-decoration: underline;
+}
+.Strengths{
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-right: 20px;
+  text-align: justify;
+  color: #EC994B;
+}
+
+
+.edu{
+  margin-top: 35px;
+}
+img{
+  display: inline;
+}
+
+.split {
+  height: 100%;
+  width: 50%;
+  position: absolute;
+  z-index: 1;
+
+}
+.left{
+  left: 0;
+}
+.right{
+  right: 0;
+}
+.avt{
+  height: 30px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-top: 50%;
+}
